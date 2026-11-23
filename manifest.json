@@ -1,0 +1,779 @@
+{
+  "hash_to_canon": {
+    "0e3167676122758b96bf7162c00ecb52eae4914197e9d9e0f51938d8f84d469a": "screenshots/document-reader/mobile/about.png",
+    "cb29c7df6e1a7843e5d1ebff7085440970cc8fa5f72b19f2bdd86881225729c2": "screenshots/document-reader/mobile/camera.png",
+    "70554abea8c88db911bd3e5e742717637e2c1784c0ef6f50875405ae25132e5d": "screenshots/document-reader/mobile/gallery.png",
+    "d9e82853b3d2d51be201b0a74284eea0351c41d3bf580139f9e2a45662aac498": "screenshots/document-reader/mobile/home.png",
+    "46c5e667c6cf8e4340b330333efdf12f0d2948ec2ec10f5c8abcf0635f70846d": "screenshots/document-reader/mobile/images.png",
+    "38a4a0679cf8523336d00fd8fdde953d9162d3b9241b8a222e58c1d5f9021c17": "screenshots/document-reader/mobile/raw.png",
+    "56f671b22e0cfceeb5699f4191a6ce1cbe0355048e0ca45f1982bc8b1d80dbed": "screenshots/document-reader/mobile/result.png",
+    "7fb18d3b1f7ec2c617385dee733172f26c695aaa6d7e9eb186177aea9efba2e7": "screenshots/document-reader/mobile/security.png",
+    "96f4d50ce114f9605c443e7853097d16eab96de747a972108579803919e76a85": "screenshots/document-reader/desktop/activate.png",
+    "b44397efb1b37f14d4ee974e6fc64dcf9f3951a50d0560f416b97f2018730391": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "8696d2149bb42cbf11300032d87cfb7927aa41d0c9187e44274da9ab8043d075": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "bb2a79ed087cfbc0e6e1f74503b6f62fab9578990a1b57d6a7e1a70c9d7fe7c0": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "2e96775fe7003ea97f6e2ba54773b799ddb2af56215dfa379ea0d36b2dadd645": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "19fcc9458a67a6a98e2dca049a6ce04fa87fd8f336ad89b8719b8c2a95461cc4": "screenshots/document-reader/desktop/unactivated.png",
+    "c3d9d16d2f10e203359aec3d5f3f4bd930041d9d16c289dcac0da6b61ebb3e33": "screenshots/document-reader/windows/api-start.png",
+    "3d2552136542409c1f9e536758bc1c2979501b987afca6e6b1c74a189652a8a5": "screenshots/face-liveness/mobile/about.png",
+    "def48b902dcb9f0e68e7cbad516c5a8ea7a114147f094c05bf509168972bab8c": "screenshots/face-liveness/desktop/demo-ui.png",
+    "b5610418d1a01d4b591a416fdd56b66d7aed36c0d5e5b7e9fabd96078db600e0": "screenshots/face-liveness/mobile/home.png",
+    "d992d3e71928ff8ff6fcb9617ad23495db1415bbb3c7845f3ba85431f6eb24fa": "screenshots/face-liveness/mobile/liveness.png",
+    "f09b9c45f00fe089bc094c7830799f6de7e75e3beddfa5a06510efa4e1925cb3": "screenshots/face-liveness/mobile/settings.png",
+    "8e1ab730f7ad5919e8e3e174b4ef85137b9757110fc718c8efdacdfe4f64a0b1": "screenshots/face-liveness/desktop/activate.png",
+    "2b1bd442338745ea14b8e4438574c1b6832e7116236880ac229369613c9290a9": "screenshots/face-liveness/desktop/unactivated.png",
+    "5cba9b3fdea3c893b4646496fafdcb85f56745b56240249d358f2a9d7f3fbcac": "screenshots/face-liveness/windows/api-start.png",
+    "30b49e08e3a13663a9ce758931e7d9c884653dedcb8320cef015c834e2cca5a2": "screenshots/id-document-liveness/desktop/demo-ui-raw.png",
+    "c5ba70ccfff218486744b1d82e64e873a8b280ba366f28b4762fad05008beea5": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
+    "2f9e9e6e45afbe56547db36ac10457feeeab6d289c6b74bb418ea047fc794f58": "screenshots/document-reader/docker/demo-ui-images.png",
+    "236a705f24a668473d9c36ecae699396bced34c489f0c68399c98e052b9f8c99": "screenshots/document-reader/docker/demo-ui-result.png",
+    "2c8f0cc98f6e9d934b5d5a74021b5f4050f9fd3a132e1ab551915ea23a8ad474": "screenshots/face-recognition/mobile/attribute.gif",
+    "b238d81f89b3da9665236152bb988b55685506438186811f12478e5926de1b62": "screenshots/face-recognition/mobile/identify.gif",
+    "4ac1e4ffa7deb0403a72dca015f73f53b6fc7e3e639815b0cbc1862447f57d87": "screenshots/face-recognition/mobile/liveness.gif",
+    "649e1e679c8ff7c4e7cbcaaf71921ab134153dd5210382ba7e67d15f120964da": "screenshots/face-recognition/mobile/people.gif",
+    "acef59324429044b676b7e874822efdf4bf04cd95c4cbe040934d7f5d7e4a1bd": "screenshots/face-recognition/mobile/settings.png",
+    "04cdf0fe1334f4ed9d70e871e53c6c39ba7aa1c9dde0d39d3ff10dc8798aa098": "screenshots/face-recognition/windows/demo-ui-detect.png",
+    "5c5ee347b0943a471987a00f91689cadfa9d9888dc94b49e194ed3b76d77139d": "screenshots/face-recognition/windows/demo-ui-identify.png",
+    "4f95035382ef0d2299f85491e56fdace17c50a307ae2fef2930f40e19963cbbe": "screenshots/face-recognition/windows/demo-ui-quality.png",
+    "227c3dae656113c4eba15b1d05520e7782a9b94b48738b9d02c62d5139095068": "screenshots/face-recognition/windows/demo-ui-verify.png"
+  },
+  "source_to_canon": {
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-SDK/assets/screenshots/camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-SDK/assets/screenshots/home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-SDK/assets/screenshots/result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-SDK/assets/screenshots/security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "scaffolds/DocumentReader-Docker/assets/screenshots/activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Angular/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-CPP/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Go/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Node/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Node-SDK/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-React/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Vue/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "hugging_face/DocumentReader-ZeroGPU-App/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "scaffolds/DocumentReader-Docker/assets/screenshots/unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/api-start.png": "screenshots/document-reader/windows/api-start.png",
+    "repositories/Face-LivenessDetection-SDK/assets/screenshots/about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-Android/assets/screenshots/about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-iOS/assets/screenshots/about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-SDK/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-Plus-Linux/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-Plus-Windows/assets/screenshots/demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-SDK/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-Android/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-iOS/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-SDK/assets/screenshots/liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-Android/assets/screenshots/liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-iOS/assets/screenshots/liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-SDK/assets/screenshots/settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-Android/assets/screenshots/settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-iOS/assets/screenshots/settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-Plus-Linux/assets/screenshots/activate.png": "screenshots/face-liveness/desktop/activate.png",
+    "repositories/Face-LivenessDetection-Plus-Linux/assets/screenshots/unactivated.png": "screenshots/face-liveness/desktop/unactivated.png",
+    "repositories/Face-LivenessDetection-Plus-Windows/assets/screenshots/api-start.png": "screenshots/face-liveness/windows/api-start.png",
+    "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/demo-ui-raw.png": "screenshots/id-document-liveness/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/demo-ui-security.png": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
+    "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/docker/demo-ui-images.png",
+    "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png"
+  },
+  "repo_file_to_canon": {
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|about.png": "screenshots/document-reader/mobile/about.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-SDK|camera.png": "screenshots/document-reader/mobile/camera.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|gallery.png": "screenshots/document-reader/mobile/gallery.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-SDK|home.png": "screenshots/document-reader/mobile/home.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|images.png": "screenshots/document-reader/mobile/images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|raw.png": "screenshots/document-reader/mobile/raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-SDK|result.png": "screenshots/document-reader/mobile/result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Android|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Flutter|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Ionic|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Cordova|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-iOS|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-ReactNative|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-SDK|security.png": "screenshots/document-reader/mobile/security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-LivenessDetection-Linux|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Angular|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-CPP|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Go|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Node|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Node-SDK|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-React|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-Vue|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "scaffolds/DocumentReader-Docker|activate.png": "screenshots/document-reader/desktop/activate.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Angular|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-CPP|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Go|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Node|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Node-SDK|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-React|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-Vue|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|demo-ui-images.png": "screenshots/document-reader/desktop/demo-ui-images.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Angular|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-CPP|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Go|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Node|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Node-SDK|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-React|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-Vue|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|demo-ui-raw.png": "screenshots/document-reader/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Angular|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-CPP|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Go|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Node|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Node-SDK|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-React|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-Vue|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|demo-ui-result.png": "screenshots/document-reader/desktop/demo-ui-result.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Angular|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-CPP|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Go|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Node|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Node-SDK|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-React|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-Vue|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|demo-ui-security.png": "screenshots/document-reader/desktop/demo-ui-security.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Linux|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-LivenessDetection-Linux|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Angular|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-CPP|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Go|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Node|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Node-SDK|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-React|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-Vue|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "hugging_face/DocumentReader-ZeroGPU-App|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "scaffolds/DocumentReader-Docker|unactivated.png": "screenshots/document-reader/desktop/unactivated.png",
+    "repositories/ID-Document-Recognition-LivenessDetection-Windows|api-start.png": "screenshots/document-reader/windows/api-start.png",
+    "repositories/Face-LivenessDetection-SDK|about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-Android|about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-iOS|about.png": "screenshots/face-liveness/mobile/about.png",
+    "repositories/Face-LivenessDetection-SDK|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-Plus-Linux|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-Plus-Windows|demo-ui.png": "screenshots/face-liveness/desktop/demo-ui.png",
+    "repositories/Face-LivenessDetection-SDK|home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-Android|home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-iOS|home.png": "screenshots/face-liveness/mobile/home.png",
+    "repositories/Face-LivenessDetection-SDK|liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-Android|liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-iOS|liveness.png": "screenshots/face-liveness/mobile/liveness.png",
+    "repositories/Face-LivenessDetection-SDK|settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-Android|settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-iOS|settings.png": "screenshots/face-liveness/mobile/settings.png",
+    "repositories/Face-LivenessDetection-Plus-Linux|activate.png": "screenshots/face-liveness/desktop/activate.png",
+    "repositories/Face-LivenessDetection-Plus-Linux|unactivated.png": "screenshots/face-liveness/desktop/unactivated.png",
+    "repositories/Face-LivenessDetection-Plus-Windows|api-start.png": "screenshots/face-liveness/windows/api-start.png",
+    "repositories/ID-Document-LivenessDetection-Linux|demo-ui-raw.png": "screenshots/id-document-liveness/desktop/demo-ui-raw.png",
+    "repositories/ID-Document-LivenessDetection-Linux|demo-ui-security.png": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
+    "scaffolds/DocumentReader-Docker|demo-ui-images.png": "screenshots/document-reader/docker/demo-ui-images.png",
+    "scaffolds/DocumentReader-Docker|demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png"
+  },
+  "files": [
+    {
+      "sha256": "96f4d50ce114f9605c443e7853097d16eab96de747a972108579803919e76a85",
+      "path": "screenshots/document-reader/desktop/activate.png",
+      "bytes": 53744,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue",
+        "scaffolds/DocumentReader-Docker"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/activate.png"
+    },
+    {
+      "sha256": "b44397efb1b37f14d4ee974e6fc64dcf9f3951a50d0560f416b97f2018730391",
+      "path": "screenshots/document-reader/desktop/demo-ui-images.png",
+      "bytes": 119090,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-LivenessDetection-Windows",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-images.png"
+    },
+    {
+      "sha256": "8696d2149bb42cbf11300032d87cfb7927aa41d0c9187e44274da9ab8043d075",
+      "path": "screenshots/document-reader/desktop/demo-ui-raw.png",
+      "bytes": 127863,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-LivenessDetection-Windows",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-raw.png"
+    },
+    {
+      "sha256": "bb2a79ed087cfbc0e6e1f74503b6f62fab9578990a1b57d6a7e1a70c9d7fe7c0",
+      "path": "screenshots/document-reader/desktop/demo-ui-result.png",
+      "bytes": 121863,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-LivenessDetection-Windows",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-result.png"
+    },
+    {
+      "sha256": "2e96775fe7003ea97f6e2ba54773b799ddb2af56215dfa379ea0d36b2dadd645",
+      "path": "screenshots/document-reader/desktop/demo-ui-security.png",
+      "bytes": 101773,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-LivenessDetection-Windows",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/demo-ui-security.png"
+    },
+    {
+      "sha256": "19fcc9458a67a6a98e2dca049a6ce04fa87fd8f336ad89b8719b8c2a95461cc4",
+      "path": "screenshots/document-reader/desktop/unactivated.png",
+      "bytes": 127222,
+      "consumers": [
+        "hugging_face/DocumentReader-ZeroGPU-App",
+        "repositories/ID-Document-Recognition-LivenessDetection-Linux",
+        "repositories/ID-Document-LivenessDetection-Linux",
+        "repositories/ID-Document-Recognition-Angular",
+        "repositories/ID-Document-Recognition-CPP",
+        "repositories/ID-Document-Recognition-Go",
+        "repositories/ID-Document-Recognition-Node",
+        "repositories/ID-Document-Recognition-Node-SDK",
+        "repositories/ID-Document-Recognition-React",
+        "repositories/ID-Document-Recognition-Vue",
+        "scaffolds/DocumentReader-Docker"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Linux/assets/screenshots/unactivated.png"
+    },
+    {
+      "sha256": "2f9e9e6e45afbe56547db36ac10457feeeab6d289c6b74bb418ea047fc794f58",
+      "path": "screenshots/document-reader/docker/demo-ui-images.png",
+      "bytes": 493921,
+      "consumers": [
+        "scaffolds/DocumentReader-Docker"
+      ],
+      "source": "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-images.png"
+    },
+    {
+      "sha256": "236a705f24a668473d9c36ecae699396bced34c489f0c68399c98e052b9f8c99",
+      "path": "screenshots/document-reader/docker/demo-ui-result.png",
+      "bytes": 307256,
+      "consumers": [
+        "scaffolds/DocumentReader-Docker"
+      ],
+      "source": "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-result.png"
+    },
+    {
+      "sha256": "0e3167676122758b96bf7162c00ecb52eae4914197e9d9e0f51938d8f84d469a",
+      "path": "screenshots/document-reader/mobile/about.png",
+      "bytes": 81302,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/about.png"
+    },
+    {
+      "sha256": "cb29c7df6e1a7843e5d1ebff7085440970cc8fa5f72b19f2bdd86881225729c2",
+      "path": "screenshots/document-reader/mobile/camera.png",
+      "bytes": 91846,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS",
+        "repositories/ID-Document-Recognition-SDK"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/camera.png"
+    },
+    {
+      "sha256": "70554abea8c88db911bd3e5e742717637e2c1784c0ef6f50875405ae25132e5d",
+      "path": "screenshots/document-reader/mobile/gallery.png",
+      "bytes": 105061,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/gallery.png"
+    },
+    {
+      "sha256": "d9e82853b3d2d51be201b0a74284eea0351c41d3bf580139f9e2a45662aac498",
+      "path": "screenshots/document-reader/mobile/home.png",
+      "bytes": 45345,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS",
+        "repositories/ID-Document-Recognition-SDK"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/home.png"
+    },
+    {
+      "sha256": "46c5e667c6cf8e4340b330333efdf12f0d2948ec2ec10f5c8abcf0635f70846d",
+      "path": "screenshots/document-reader/mobile/images.png",
+      "bytes": 69065,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/images.png"
+    },
+    {
+      "sha256": "38a4a0679cf8523336d00fd8fdde953d9162d3b9241b8a222e58c1d5f9021c17",
+      "path": "screenshots/document-reader/mobile/raw.png",
+      "bytes": 61060,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/raw.png"
+    },
+    {
+      "sha256": "56f671b22e0cfceeb5699f4191a6ce1cbe0355048e0ca45f1982bc8b1d80dbed",
+      "path": "screenshots/document-reader/mobile/result.png",
+      "bytes": 68528,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS",
+        "repositories/ID-Document-Recognition-SDK"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/result.png"
+    },
+    {
+      "sha256": "7fb18d3b1f7ec2c617385dee733172f26c695aaa6d7e9eb186177aea9efba2e7",
+      "path": "screenshots/document-reader/mobile/security.png",
+      "bytes": 56804,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Android",
+        "repositories/ID-Document-Recognition-LivenessDetection-Flutter",
+        "repositories/ID-Document-Recognition-LivenessDetection-Ionic",
+        "repositories/ID-Document-Recognition-LivenessDetection-Cordova",
+        "repositories/ID-Document-Recognition-LivenessDetection-ReactNative",
+        "repositories/ID-Document-Recognition-LivenessDetection-iOS",
+        "repositories/ID-Document-Recognition-SDK"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/security.png"
+    },
+    {
+      "sha256": "c3d9d16d2f10e203359aec3d5f3f4bd930041d9d16c289dcac0da6b61ebb3e33",
+      "path": "screenshots/document-reader/windows/api-start.png",
+      "bytes": 160289,
+      "consumers": [
+        "repositories/ID-Document-Recognition-LivenessDetection-Windows"
+      ],
+      "source": "repositories/ID-Document-Recognition-LivenessDetection-Windows/assets/screenshots/api-start.png"
+    },
+    {
+      "sha256": "8e1ab730f7ad5919e8e3e174b4ef85137b9757110fc718c8efdacdfe4f64a0b1",
+      "path": "screenshots/face-liveness/desktop/activate.png",
+      "bytes": 62375,
+      "consumers": [
+        "repositories/Face-LivenessDetection-Plus-Linux"
+      ],
+      "source": "repositories/Face-LivenessDetection-Plus-Linux/assets/screenshots/activate.png"
+    },
+    {
+      "sha256": "def48b902dcb9f0e68e7cbad516c5a8ea7a114147f094c05bf509168972bab8c",
+      "path": "screenshots/face-liveness/desktop/demo-ui.png",
+      "bytes": 281898,
+      "consumers": [
+        "repositories/Face-LivenessDetection-SDK",
+        "repositories/Face-LivenessDetection-Plus-Linux",
+        "repositories/Face-LivenessDetection-Plus-Windows"
+      ],
+      "source": "repositories/Face-LivenessDetection-SDK/assets/screenshots/demo-ui.png"
+    },
+    {
+      "sha256": "2b1bd442338745ea14b8e4438574c1b6832e7116236880ac229369613c9290a9",
+      "path": "screenshots/face-liveness/desktop/unactivated.png",
+      "bytes": 98602,
+      "consumers": [
+        "repositories/Face-LivenessDetection-Plus-Linux"
+      ],
+      "source": "repositories/Face-LivenessDetection-Plus-Linux/assets/screenshots/unactivated.png"
+    },
+    {
+      "sha256": "3d2552136542409c1f9e536758bc1c2979501b987afca6e6b1c74a189652a8a5",
+      "path": "screenshots/face-liveness/mobile/about.png",
+      "bytes": 68859,
+      "consumers": [
+        "repositories/Face-LivenessDetection-SDK",
+        "repositories/Face-LivenessDetection-Android",
+        "repositories/Face-LivenessDetection-iOS"
+      ],
+      "source": "repositories/Face-LivenessDetection-SDK/assets/screenshots/about.png"
+    },
+    {
+      "sha256": "b5610418d1a01d4b591a416fdd56b66d7aed36c0d5e5b7e9fabd96078db600e0",
+      "path": "screenshots/face-liveness/mobile/home.png",
+      "bytes": 130045,
+      "consumers": [
+        "repositories/Face-LivenessDetection-SDK",
+        "repositories/Face-LivenessDetection-Android",
+        "repositories/Face-LivenessDetection-iOS"
+      ],
+      "source": "repositories/Face-LivenessDetection-SDK/assets/screenshots/home.png"
+    },
+    {
+      "sha256": "d992d3e71928ff8ff6fcb9617ad23495db1415bbb3c7845f3ba85431f6eb24fa",
+      "path": "screenshots/face-liveness/mobile/liveness.png",
+      "bytes": 116954,
+      "consumers": [
+        "repositories/Face-LivenessDetection-SDK",
+        "repositories/Face-LivenessDetection-Android",
+        "repositories/Face-LivenessDetection-iOS"
+      ],
+      "source": "repositories/Face-LivenessDetection-SDK/assets/screenshots/liveness.png"
+    },
+    {
+      "sha256": "f09b9c45f00fe089bc094c7830799f6de7e75e3beddfa5a06510efa4e1925cb3",
+      "path": "screenshots/face-liveness/mobile/settings.png",
+      "bytes": 27576,
+      "consumers": [
+        "repositories/Face-LivenessDetection-SDK",
+        "repositories/Face-LivenessDetection-Android",
+        "repositories/Face-LivenessDetection-iOS"
+      ],
+      "source": "repositories/Face-LivenessDetection-SDK/assets/screenshots/settings.png"
+    },
+    {
+      "sha256": "5cba9b3fdea3c893b4646496fafdcb85f56745b56240249d358f2a9d7f3fbcac",
+      "path": "screenshots/face-liveness/windows/api-start.png",
+      "bytes": 161866,
+      "consumers": [
+        "repositories/Face-LivenessDetection-Plus-Windows"
+      ],
+      "source": "repositories/Face-LivenessDetection-Plus-Windows/assets/screenshots/api-start.png"
+    },
+    {
+      "sha256": "2c8f0cc98f6e9d934b5d5a74021b5f4050f9fd3a132e1ab551915ea23a8ad474",
+      "path": "screenshots/face-recognition/mobile/attribute.gif",
+      "bytes": 934436,
+      "consumers": [
+        "repositories/Face-Recognition-LivenessDetection-Android",
+        "repositories/Face-Recognition-LivenessDetection-iOS",
+        "repositories/Face-Recognition-LivenessDetection-ReactNative",
+        "repositories/Face-Recognition-LivenessDetection-Flutter",
+        "repositories/Face-Recognition-LivenessDetection-Maui",
+        "repositories/Face-Recognition-LivenessDetection-Cordova",
+        "repositories/Face-Recognition-LivenessDetection-Ionic"
+      ]
+    },
+    {
+      "sha256": "b238d81f89b3da9665236152bb988b55685506438186811f12478e5926de1b62",
+      "path": "screenshots/face-recognition/mobile/identify.gif",
+      "bytes": 4414798,
+      "consumers": [
+        "repositories/Face-Recognition-LivenessDetection-Android",
+        "repositories/Face-Recognition-LivenessDetection-iOS",
+        "repositories/Face-Recognition-LivenessDetection-ReactNative",
+        "repositories/Face-Recognition-LivenessDetection-Flutter",
+        "repositories/Face-Recognition-LivenessDetection-Maui",
+        "repositories/Face-Recognition-LivenessDetection-Cordova",
+        "repositories/Face-Recognition-LivenessDetection-Ionic"
+      ]
+    },
+    {
+      "sha256": "4ac1e4ffa7deb0403a72dca015f73f53b6fc7e3e639815b0cbc1862447f57d87",
+      "path": "screenshots/face-recognition/mobile/liveness.gif",
+      "bytes": 3541364,
+      "consumers": [
+        "repositories/Face-Recognition-LivenessDetection-Android",
+        "repositories/Face-Recognition-LivenessDetection-iOS",
+        "repositories/Face-Recognition-LivenessDetection-ReactNative",
+        "repositories/Face-Recognition-LivenessDetection-Flutter",
+        "repositories/Face-Recognition-LivenessDetection-Maui",
+        "repositories/Face-Recognition-LivenessDetection-Cordova",
+        "repositories/Face-Recognition-LivenessDetection-Ionic"
+      ]
+    },
+    {
+      "sha256": "649e1e679c8ff7c4e7cbcaaf71921ab134153dd5210382ba7e67d15f120964da",
+      "path": "screenshots/face-recognition/mobile/people.gif",
+      "bytes": 1412380,
+      "consumers": [
+        "repositories/Face-Recognition-LivenessDetection-Android",
+        "repositories/Face-Recognition-LivenessDetection-iOS",
+        "repositories/Face-Recognition-LivenessDetection-ReactNative",
+        "repositories/Face-Recognition-LivenessDetection-Flutter",
+        "repositories/Face-Recognition-LivenessDetection-Maui",
+        "repositories/Face-Recognition-LivenessDetection-Cordova",
+        "repositories/Face-Recognition-LivenessDetection-Ionic"
+      ]
+    },
+    {
+      "sha256": "acef59324429044b676b7e874822efdf4bf04cd95c4cbe040934d7f5d7e4a1bd",
+      "path": "screenshots/face-recognition/mobile/settings.png",
+      "bytes": 82668,
+      "consumers": [
+        "repositories/Face-Recognition-LivenessDetection-Android",
+        "repositories/Face-Recognition-LivenessDetection-iOS",
+        "repositories/Face-Recognition-LivenessDetection-ReactNative",
+        "repositories/Face-Recognition-LivenessDetection-Flutter",
+        "repositories/Face-Recognition-LivenessDetection-Maui",
+        "repositories/Face-Recognition-LivenessDetection-Cordova",
+        "repositories/Face-Recognition-LivenessDetection-Ionic"
+      ]
+    },
+    {
+      "sha256": "04cdf0fe1334f4ed9d70e871e53c6c39ba7aa1c9dde0d39d3ff10dc8798aa098",
+      "path": "screenshots/face-recognition/windows/demo-ui-detect.png",
+      "bytes": 288266,
+      "consumers": [
+        "repositories/Face-Recognition-Windows",
+        "repositories/Face-Recognition-Linux"
+      ]
+    },
+    {
+      "sha256": "5c5ee347b0943a471987a00f91689cadfa9d9888dc94b49e194ed3b76d77139d",
+      "path": "screenshots/face-recognition/windows/demo-ui-identify.png",
+      "bytes": 273592,
+      "consumers": [
+        "repositories/Face-Recognition-Windows",
+        "repositories/Face-Recognition-Linux"
+      ]
+    },
+    {
+      "sha256": "4f95035382ef0d2299f85491e56fdace17c50a307ae2fef2930f40e19963cbbe",
+      "path": "screenshots/face-recognition/windows/demo-ui-quality.png",
+      "bytes": 320911,
+      "consumers": [
+        "repositories/Face-Recognition-Windows",
+        "repositories/Face-Recognition-Linux"
+      ]
+    },
+    {
+      "sha256": "227c3dae656113c4eba15b1d05520e7782a9b94b48738b9d02c62d5139095068",
+      "path": "screenshots/face-recognition/windows/demo-ui-verify.png",
+      "bytes": 284201,
+      "consumers": [
+        "repositories/Face-Recognition-Windows",
+        "repositories/Face-Recognition-Linux"
+      ]
+    },
+    {
+      "sha256": "30b49e08e3a13663a9ce758931e7d9c884653dedcb8320cef015c834e2cca5a2",
+      "path": "screenshots/id-document-liveness/desktop/demo-ui-raw.png",
+      "bytes": 108818,
+      "consumers": [
+        "repositories/ID-Document-LivenessDetection-Linux"
+      ],
+      "source": "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/demo-ui-raw.png"
+    },
+    {
+      "sha256": "c5ba70ccfff218486744b1d82e64e873a8b280ba366f28b4762fad05008beea5",
+      "path": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
+      "bytes": 91939,
+      "consumers": [
+        "repositories/ID-Document-LivenessDetection-Linux"
+      ],
+      "source": "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/demo-ui-security.png"
+    }
+  ]
+}
