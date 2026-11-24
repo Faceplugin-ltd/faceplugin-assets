@@ -32,10 +32,9 @@
     "5c5ee347b0943a471987a00f91689cadfa9d9888dc94b49e194ed3b76d77139d": "screenshots/face-recognition/windows/demo-ui-identify.png",
     "4f95035382ef0d2299f85491e56fdace17c50a307ae2fef2930f40e19963cbbe": "screenshots/face-recognition/windows/demo-ui-quality.png",
     "227c3dae656113c4eba15b1d05520e7782a9b94b48738b9d02c62d5139095068": "screenshots/face-recognition/windows/demo-ui-verify.png",
-    "e1b4b7d2aabc0c68baba31caab931e229b7520978e280b57f29bd24c5e29d413": "screenshots/face-liveness/mobile/home.png",
-    "4e28c75ad2f80b5ecb6dabbb7856af24c092d237fc4222ce0f6c2fd18f677712": "screenshots/face-liveness/mobile/checks.png",
     "8fcb104ec77eb57fe3c69b5eeb823cc3794f419fc72304109297f35d6840bc9f": "screenshots/face-liveness/mobile/active.png",
-    "7e62a43fe63a86a6d24ec0fe12d6ba134773129c6a57d3c301226e6a47e6b62b": "screenshots/face-liveness/mobile/passive.png"
+    "7e62a43fe63a86a6d24ec0fe12d6ba134773129c6a57d3c301226e6a47e6b62b": "screenshots/face-liveness/mobile/passive.png",
+    "58e0023872ca3ec4de3979c33b7ce7a9f135d5b004df506e1f3b9400da9e499d": "screenshots/face-liveness/mobile/home.gif"
   },
   "source_to_canon": {
     "repositories/ID-Document-Recognition-LivenessDetection-Android/assets/screenshots/about.png": "screenshots/document-reader/mobile/about.png",
@@ -163,20 +162,6 @@
     "repositories/ID-Document-LivenessDetection-Linux/assets/screenshots/demo-ui-security.png": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
     "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-images.png": "screenshots/document-reader/docker/demo-ui-images.png",
     "scaffolds/DocumentReader-Docker/assets/screenshots/demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png",
-    "repositories/Face-LivenessDetection-Android/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-iOS/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-ReactNative/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Flutter/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Maui/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Cordova/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Ionic/assets/screenshots/home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Android/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-iOS/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-ReactNative/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Flutter/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Maui/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Cordova/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Ionic/assets/screenshots/checks.png": "screenshots/face-liveness/mobile/checks.png",
     "repositories/Face-LivenessDetection-Android/assets/screenshots/active.png": "screenshots/face-liveness/mobile/active.png",
     "repositories/Face-LivenessDetection-iOS/assets/screenshots/active.png": "screenshots/face-liveness/mobile/active.png",
     "repositories/Face-LivenessDetection-ReactNative/assets/screenshots/active.png": "screenshots/face-liveness/mobile/active.png",
@@ -190,7 +175,14 @@
     "repositories/Face-LivenessDetection-Flutter/assets/screenshots/passive.png": "screenshots/face-liveness/mobile/passive.png",
     "repositories/Face-LivenessDetection-Maui/assets/screenshots/passive.png": "screenshots/face-liveness/mobile/passive.png",
     "repositories/Face-LivenessDetection-Cordova/assets/screenshots/passive.png": "screenshots/face-liveness/mobile/passive.png",
-    "repositories/Face-LivenessDetection-Ionic/assets/screenshots/passive.png": "screenshots/face-liveness/mobile/passive.png"
+    "repositories/Face-LivenessDetection-Ionic/assets/screenshots/passive.png": "screenshots/face-liveness/mobile/passive.png",
+    "repositories/Face-LivenessDetection-Android/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-iOS/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-ReactNative/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Flutter/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Maui/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Cordova/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Ionic/assets/screenshots/home.gif": "screenshots/face-liveness/mobile/home.gif"
   },
   "repo_file_to_canon": {
     "repositories/ID-Document-Recognition-LivenessDetection-Android|about.png": "screenshots/document-reader/mobile/about.png",
@@ -318,20 +310,6 @@
     "repositories/ID-Document-LivenessDetection-Linux|demo-ui-security.png": "screenshots/id-document-liveness/desktop/demo-ui-security.png",
     "scaffolds/DocumentReader-Docker|demo-ui-images.png": "screenshots/document-reader/docker/demo-ui-images.png",
     "scaffolds/DocumentReader-Docker|demo-ui-result.png": "screenshots/document-reader/docker/demo-ui-result.png",
-    "repositories/Face-LivenessDetection-Android|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-iOS|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-ReactNative|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Flutter|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Maui|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Cordova|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Ionic|home.png": "screenshots/face-liveness/mobile/home.png",
-    "repositories/Face-LivenessDetection-Android|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-iOS|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-ReactNative|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Flutter|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Maui|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Cordova|checks.png": "screenshots/face-liveness/mobile/checks.png",
-    "repositories/Face-LivenessDetection-Ionic|checks.png": "screenshots/face-liveness/mobile/checks.png",
     "repositories/Face-LivenessDetection-Android|active.png": "screenshots/face-liveness/mobile/active.png",
     "repositories/Face-LivenessDetection-iOS|active.png": "screenshots/face-liveness/mobile/active.png",
     "repositories/Face-LivenessDetection-ReactNative|active.png": "screenshots/face-liveness/mobile/active.png",
@@ -345,7 +323,14 @@
     "repositories/Face-LivenessDetection-Flutter|passive.png": "screenshots/face-liveness/mobile/passive.png",
     "repositories/Face-LivenessDetection-Maui|passive.png": "screenshots/face-liveness/mobile/passive.png",
     "repositories/Face-LivenessDetection-Cordova|passive.png": "screenshots/face-liveness/mobile/passive.png",
-    "repositories/Face-LivenessDetection-Ionic|passive.png": "screenshots/face-liveness/mobile/passive.png"
+    "repositories/Face-LivenessDetection-Ionic|passive.png": "screenshots/face-liveness/mobile/passive.png",
+    "repositories/Face-LivenessDetection-Android|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-iOS|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-ReactNative|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Flutter|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Maui|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Cordova|home.gif": "screenshots/face-liveness/mobile/home.gif",
+    "repositories/Face-LivenessDetection-Ionic|home.gif": "screenshots/face-liveness/mobile/home.gif"
   },
   "files": [
     {
@@ -646,9 +631,9 @@
       "source": "repositories/Face-LivenessDetection-Android/assets/screenshots/active.png"
     },
     {
-      "sha256": "4e28c75ad2f80b5ecb6dabbb7856af24c092d237fc4222ce0f6c2fd18f677712",
-      "path": "screenshots/face-liveness/mobile/checks.png",
-      "bytes": 81021,
+      "sha256": "58e0023872ca3ec4de3979c33b7ce7a9f135d5b004df506e1f3b9400da9e499d",
+      "path": "screenshots/face-liveness/mobile/home.gif",
+      "bytes": 91355,
       "consumers": [
         "repositories/Face-LivenessDetection-Android",
         "repositories/Face-LivenessDetection-iOS",
@@ -658,22 +643,7 @@
         "repositories/Face-LivenessDetection-Cordova",
         "repositories/Face-LivenessDetection-Ionic"
       ],
-      "source": "repositories/Face-LivenessDetection-Android/assets/screenshots/checks.png"
-    },
-    {
-      "sha256": "e1b4b7d2aabc0c68baba31caab931e229b7520978e280b57f29bd24c5e29d413",
-      "path": "screenshots/face-liveness/mobile/home.png",
-      "bytes": 98964,
-      "consumers": [
-        "repositories/Face-LivenessDetection-Android",
-        "repositories/Face-LivenessDetection-iOS",
-        "repositories/Face-LivenessDetection-ReactNative",
-        "repositories/Face-LivenessDetection-Flutter",
-        "repositories/Face-LivenessDetection-Maui",
-        "repositories/Face-LivenessDetection-Cordova",
-        "repositories/Face-LivenessDetection-Ionic"
-      ],
-      "source": "repositories/Face-LivenessDetection-Android/assets/screenshots/home.png"
+      "source": "repositories/Face-LivenessDetection-Android/assets/screenshots/home.gif"
     },
     {
       "sha256": "7e62a43fe63a86a6d24ec0fe12d6ba134773129c6a57d3c301226e6a47e6b62b",
